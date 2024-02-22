@@ -1,2 +1,1 @@
-# REDSWebsite.github.io
-Website for REDS Hair Salon
+# h1 REDS Hair Salon
